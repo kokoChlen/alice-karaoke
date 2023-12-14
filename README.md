@@ -2,16 +2,16 @@
 караоке для Яндекс Алисы (В разработке)
 
 Для начала работы выполните:
-cd vocal-remover
-pip install -r requirements.txt
+1. cd vocal-remover,
+2. pip install -r requirements.txt
 
 Установите дополнительные зависимости:
-Flask
-Librosa
-Torch
-Tqdm
-Opencv-python
-pygame
+Flask,
+Librosa,
+Torch,
+Tqdm,
+Opencv-python,
+pygame,
 
 Затем установите приложение aeneas, ссылка на загрузку:
 https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3.0_2
