@@ -1,8 +1,8 @@
 # alice-karaoke
 караоке для Яндекс Алисы (В разработке)
-
+Скопируйте все файлы на диск C в папку proect (C:\proect)
 Для начала работы выполните в cmd(версия python 3.11 и старше):
-1. cd vocal-remover,
+1. cd proect,
 2. pip install -r requirements.txt
 
 Установите дополнительные зависимости:
