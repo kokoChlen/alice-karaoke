@@ -1,7 +1,7 @@
 # alice-karaoke
 караоке для Яндекс Алисы (В разработке)
 
-Для начала работы выполните в cmd(версия pythin 3.11 и старше):
+Для начала работы выполните в cmd(версия python 3.11 и старше):
 1. cd vocal-remover,
 2. pip install -r requirements.txt
 
